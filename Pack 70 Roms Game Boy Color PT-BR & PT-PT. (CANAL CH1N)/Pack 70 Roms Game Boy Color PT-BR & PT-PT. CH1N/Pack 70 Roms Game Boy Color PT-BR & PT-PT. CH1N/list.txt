@@ -1,0 +1,72 @@
+102 Dalmatians - Puppies to the Rescue.gbc
+AirForce Delta.gbc
+Alone in the Dark - The New Nightmare.gbc
+Army Men.gbc
+Balloon Fight.nes
+Batman Beyond - Return of the Joker.gbc
+Bionic Commando - Elite Forces.gbc
+Bomberman Max - Blue Champion.gbc
+Buffy - The Vampire Slayer (BR).gbc
+Classic Bubble Bobble.gbc
+Croc.gbc
+Crystalis.gbc
+Donkey Kong Country.gbc
+Dragon Warrior Monsters.gbc
+Driver - You are the Wheelman.gbc
+Extreme Ghostbusters.gbc
+Flipper & Lopaka.gbc
+Fort Boyard.gbc
+Gex - Enter the Gecko.gbc
+Gremlins Unleashed.gbc
+Halloween Racer.gbc
+Harry Potter and the Chamber of Secrets.gbc
+Harry Potter and the Sorcerer's Stone.gbc
+Harvest Moon 2 GBC.gbc
+Harvest Moon 3 GBC.gbc
+Harvest Moon GB.gbc
+Hugo - Black Diamond Fever.gbc
+Hugo - The Evil Mirror.gbc
+International Superstar Soccer '99.gbc
+Kirikou.gbc
+Legend of Zelda, The - Link's Awakening DX (Rev B).gbc
+Legend of Zelda, The - Oracle of Ages.gbc
+Legend of Zelda, The - Oracle of Seasons.gbc
+LEGO Alpha Team.gbc
+LEGO Island 2 - The Brickster's Revenge.gbc
+LEGO Racers.gbc
+LEGO Stunt Rally.gbc
+list.txt
+Make_list.bat
+Megaman Xtreme 2.gbc
+Megaman Xtreme.gbc
+MTV Sports - Skateboarding featuring Andy MacDonald.gbc
+N.Y. Race.gbc
+New Addams Family Series, The.gbc
+Perfect Dark.gbc
+Pocket Bomberman.gbc
+Pocket Monsters Kin.gbc
+Pocket Monsters.gbc
+Pocket Soccer.gbc
+Pokemon - Crystal Version (Rev A).GBC
+Pokemon - Gold Version.gbc
+Pokemon - Silver Version.gbc
+Pokemon Pinball.gbc
+Pokemon Puzzle Challenge.gbc
+Pokemon Special Pikachu Edition.gbc
+Pokemon Trading Card Game.gbc
+Power Spike - Pro Beach Volleyball.gbc
+Quest RPG - Brian's Journey.gbc
+Resident Evil Gaiden.gbc
+Return of the Ninja.gbc
+Revelations - The Demon Slayer.gbc
+Ronaldo V-Soccer.gbc
+Shantae.gbc
+SnowCross.gbc
+Spider-Man 2 - The Sinister Six.gbc
+Spider-Man.gbc
+Star Wars Episode I - Obi-Wan's Adventures.gbc
+Suzuki Alstare Extreme Racing.gbc
+Tetris DX (World).gbc
+Top Gear Pocket.gbc
+Wario Land II.gb
+Yu-Gi-Oh! - Dark Duel Stories.gbc
